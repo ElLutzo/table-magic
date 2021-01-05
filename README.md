@@ -19,3 +19,6 @@ I keep an up-to-date version of this on my GitHub Pages site: [**http://stevecat
 ## ToDo
 * add LaTeX column
 * add box drawing column: [https://en.wikipedia.org/wiki/Box_Drawing_(Unicode_block)](https://en.wikipedia.org/wiki/Box_Drawing_(Unicode_block))
+
+## github-page
+[https://ellutzo.github.io/table-magic/](https://ellutzo.github.io/table-magic/)
