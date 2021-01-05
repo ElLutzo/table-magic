@@ -17,4 +17,5 @@ I've made this as a little learning exercise to play with Primer, Atom, GitHub D
 I keep an up-to-date version of this on my GitHub Pages site: [**http://stevecat.github.io/table-magic/**](http://stevecat.github.io/table-magic/)
 
 ## ToDo
-* add LaTex-column
+* add LaTeX column
+* add box drawing column: [https://en.wikipedia.org/wiki/Box_Drawing_(Unicode_block)](https://en.wikipedia.org/wiki/Box_Drawing_(Unicode_block))
